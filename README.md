@@ -5,7 +5,7 @@
 
 ## 1. Screenshot an image to your clipboard
 ## 2. Run pymage-to-text
-## 3. Paste your extracted text to a file
+## 3. Paste your extracted text to your text editor
 
 # Python youtube tutorial to code example
 >  Save time on video tutorials
