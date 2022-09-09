@@ -7,7 +7,7 @@
 ## 2. Run pymage-to-text
 ## 3. Paste your extracted text to a file
 
-#Python youtube tutorial to code example
+# Python youtube tutorial to code example
 >  Save time on video tutorials
 
 ![](https://github.com/karlpothast/pymage-to-text/blob/master/documentation/python.gif)
